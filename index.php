@@ -10,6 +10,7 @@
     <h1>Student Task & Study Planner</h1>
 
     <p>Welcome to our Student Task Planner.</p>
+    <!-- Student Task Planner - GitHub Update -->
 
 </body>
 </html>
